@@ -3,7 +3,7 @@
 ```SQL
 create database databasetest;
 ```      
-![](https://github.com/BiubiuOoo/Homework-of-MySQL/blob/master/images/1.png?raw=true)
+![](https://github.com/925537059/MySQL-/blob/master/%E5%9B%BE%E7%89%87/1.png?raw=true)
 ### 2、查看和选择数据库
 ```SQL
 show databases;
