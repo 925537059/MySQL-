@@ -76,7 +76,7 @@ alter table t_dept1
 drop bname;
 describe t_dept1;
 ![](https://github.com/BiubiuOoo/Homework-of-MySQL/blob/master/images/12.png?raw=true)
-
+### 四、
 
 
 
